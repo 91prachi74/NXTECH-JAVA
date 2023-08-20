@@ -16,6 +16,6 @@ java banking application used for create an account,check,deposit money,withdraw
 
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/91prachi74/netflix-clone.git </li>
+<li>Clone the repository: git clone https://github.com/91prachi74/NXTECH-JAVA.git </li>
 <li>Open the project folder in your preferred code editor.</li>
-<li>Open the netflix-clone.html file in a web browser.</li>
+<li>Open the java banking aplication file in a web browser.</li>
